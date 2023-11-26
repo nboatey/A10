@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
 function setCookie(cname,cvalue,exdays) {
   const d = new Date();
   d.setTime(d.getTime() + (exdays*24*60*60*1000));
@@ -32,3 +36,9 @@ function checkCookie() {
      }
   }
 }
+</script>
+</head>
+
+<body onload="checkCookie()"></body>
+
+</html>
