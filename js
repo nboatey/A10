@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <script>
@@ -42,3 +42,4 @@ function checkCookie() {
 <body onload="checkCookie()"></body>
 
 </html>
+
