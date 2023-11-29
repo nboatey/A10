@@ -40,5 +40,6 @@ function checkCookie() {
 </head>
 
 <body onload="checkCookie()"></body>
-<p> Professor 2023 </p>
+print ("Welcome again " + user);
+<p> Nana Boatey 2023 </p>
 </html>
